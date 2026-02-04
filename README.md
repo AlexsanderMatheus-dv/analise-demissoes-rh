@@ -33,3 +33,6 @@ Os dados indicam oportunidades de melhoria relacionadas à gestão de pessoas, c
 
 ## Autor
 Alexsander Matheus
+## Dashboard
+
+![Dashboard de Demissões](dashboard_demissoes.png)
