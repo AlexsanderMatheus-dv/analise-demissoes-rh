@@ -35,4 +35,4 @@ Os dados indicam oportunidades de melhoria relacionadas à gestão de pessoas, c
 Alexsander Matheus
 ## Dashboard
 
-![Dashboard de Demissões](analise-demissoes-rh)
+![Dashboard de Demissões](Captura de tela 2026-02-04 190828.png)
