@@ -35,4 +35,4 @@ Os dados indicam oportunidades de melhoria relacionadas à gestão de pessoas, c
 Alexsander Matheus
 ## Dashboard
 
-![Dashboard de Demissões](Pisolar = Relatório Matias.pbix)
+![Dashboard de Demissões](analise-demissoes-rh)
